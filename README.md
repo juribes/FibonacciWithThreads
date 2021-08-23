@@ -7,7 +7,7 @@ The simple code written in Java requires 3 parameters
 2. Cycles (number of times one thread will calculate the fibonacci number)
 3. Element of fibonacci sequence to be calculated
 
-The total number of times qur the code will calculate the fibonacci element is numberOfThreads * cycles
+The total number of times the code will calculate the fibonacci element is numberOfThreads * cycles
 
 
 ## Notes
