@@ -1,5 +1,3 @@
-package main.java;
-
 class Fibonacci extends Thread {
     private int cycles;
     private int fibonacciElement;
